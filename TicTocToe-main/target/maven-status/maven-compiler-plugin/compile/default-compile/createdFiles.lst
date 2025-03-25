@@ -1,0 +1,9 @@
+project\service\UpdateNotifier.class
+project\UpdateNotifierImpl.class
+project\BoardRES.class
+project\service\BuilderPattern.class
+project\service\impl\BuilderPatternImpl.class
+project\GameActionEvent.class
+project\Runner.class
+project\TicTacToeModel.class
+project\GameManager.class
